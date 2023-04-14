@@ -21,7 +21,6 @@ int main(void)
         break;
 
     default:
-        result = 31;
         break;
     }
     printf("%d월의 일수는 %d입니다.", month, result);
