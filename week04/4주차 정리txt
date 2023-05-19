@@ -12,7 +12,7 @@
     long long: 8바이트 
 
     자료형의 분류
-    자료형을 크게 나누면 정수형(integer type), 살수형(float type), 문자형(char type)
+    자료형을 크게 나누면 정수형(integer type), 실수형(float type), 문자형(char type)
 
     자료형의 크기
     자료형의 크기를 알아보려면 sizeof 연산자를 사용하면 된다. sizeof는 변수나 자료형의 크기를 바이트 단위로 반환하는 연산자이다.

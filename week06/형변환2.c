@@ -22,7 +22,6 @@ int main(void)
     printf("1.3 + 1.8= %d\n", i);
 
     i = (int)1.3 + (int)1.8;
-
     printf("(int)1.3 + (int)1.8= %d\n ", i);
 
     return 0;

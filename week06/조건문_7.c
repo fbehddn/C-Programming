@@ -5,7 +5,7 @@ int main()
     printf("문자를 입력하시오: ");
 
     ch = getchar();
-    if (ch >= 'A' && ch <= '%')
+    if (ch >= 'A' && ch <= 'Z')
         printf("%c는 대문자입니다.\n", ch);
     else if (ch >= 'a' && ch <= 'z')
         printf("%c는 소문자입니다.\n", ch);

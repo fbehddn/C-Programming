@@ -12,5 +12,5 @@ int main(void)
     printf("\n거스름돈은 다음과 같습니다.\n\n");
 
     restMoney = money - price;
-    printf("1000원 %d 장\n500원 동전 %d 개\n1000원 동전 %d개", restMoney / 1000, (restMoney % 1000) / 500, ((restMoney % 1000) % 500) / 100);
+    printf("1000원 %d 장\n500원 동전 %d 개\n100원 동전 %d개", restMoney / 1000, (restMoney % 1000) / 500, ((restMoney % 1000) % 500) / 100);
 }
