@@ -19,4 +19,3 @@ int main(void)
     int avg = sum / SIZE;
 
     printf("성적 평균 = %d", avg);
-}
